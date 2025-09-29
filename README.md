@@ -19,5 +19,3 @@ This repository collects archival resources, research notes, analysis tool outpu
 - **Linux (analysis):** use Arch/Ubuntu for detailed analysis: `binwalk`, `radare2`, `ghidra`, `strings`, `hexdump`, `xxd`. Keep all dumps immutable and checksummed.
 
 ---
-
-## Repo layout (suggested)
